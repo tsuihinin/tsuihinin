@@ -3,7 +3,4 @@ openai-whisper
 torch
 torchaudio
 python-docx
-funasr
-modelscope
-huggingface_hub
-numpy
+numpy<2
